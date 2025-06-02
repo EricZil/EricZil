@@ -1,42 +1,38 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=EricZil&label=Profile%20views&countColor=%232ccce4&style=flat&labelStyle=none)
-[![Github](https://img.shields.io/github/followers/EricZil?label=Follow&style=social)](https://github.com/EricZil)
-
-<div size='20px'> Hi! My name is Eric. Thank You for taking the time to view my GitHub profile ❤️ 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/EricZil/count.svg?" />
 </div>
 
-<h2> About Me </h2>
+<br/>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center">
+  <!-- Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=EricZil&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
+</div>
 
-- 🔭 I’m currently working on NezService Productions
-  
-- 🌱 I’m currently learning Git, Swift y GitHub
-    
-- 💬 Feel free to chat with me!
-  
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
+<br/>
 
+<div align="center">
+  <!-- Trophy Graph -->
+  <img src="https://github-profile-trophy.vercel.app?username=EricZil&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4&title=-Reviews,-Issues,-Followers,-Stars,-Repositories,-PullRequest" height="150" alt="trophy graph" />
+</div>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://github.com/EricZil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EricZil&theme=tokyonight" />
-</a>
+<br/>
 
-<br>
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricZil&radius=16&theme=redical&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph" />
+</div>
+
+<br/>
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/EricZil/EricZil/output/snake.svg" alt="Snake animation" />
+
+<br/>
+
+<!-- Pacman graph (auto dark/light mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricZil/EricZil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricZil/EricZil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EricZil/EricZil/output/pacman-contribution-graph.svg">
+</picture>
